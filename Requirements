@@ -1,0 +1,14 @@
+
+## 📋 Requirements
+
+- Python 3.x
+- tkinter (usually comes with Python)
+- Windows OS (for fullscreen and key blocking features)
+
+## 🚀 How to Run
+
+1. Install Python from [python.org](https://python.org)
+2. Download the `Nopray-Ransom.py` file
+3. Double-click it or run:
+   ```bash
+   python Nopray-Ransom
