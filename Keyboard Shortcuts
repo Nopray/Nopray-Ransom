@@ -1,0 +1,68 @@
+All common shortcuts are blocked for the prank effect:
+
+ALT+F4 ❌
+
+ESC ❌
+
+Windows Key ❌
+
+Ctrl+Alt+Delete ❌
+
+But don't worry! You can always:
+
+Enter the password 123456789
+
+Or kill it from Task Manager (Ctrl+Shift+ESC)
+
+🎮 Features
+Full-screen immersive experience
+
+Realistic ransomware-like interface
+
+Working password input
+
+Animated 2-hour countdown
+
+Green "unlock" screen
+
+Keyboard shortcut blocking for authenticity
+
+No actual harm to your system
+
+📝 How to Stop It
+Method 1 (Easy): Type 123456789 and press Enter
+Method 2 (Emergency): Open Task Manager (Ctrl+Shift+ESC) and end the Python process
+
+⚖️ Legal and Ethical Use
+This software is provided for EDUCATIONAL PURPOSES ONLY.
+
+DO NOT:
+
+Use this to actually scare someone without their knowledge
+
+Claim this is real ransomware
+
+Modify it to become actual malware
+
+Use it for illegal purposes
+
+DO:
+
+Prank friends who are in on the joke
+
+Learn about GUI programming in Python
+
+Understand security awareness
+
+Share responsibly
+
+👨‍💻 Code Overview
+The script uses:
+
+tkinter for the GUI
+
+Window hooks to block keyboard shortcuts
+
+Full-screen mode for immersion
+
+Simple password check (no encryption, just a string compare)
