@@ -41,11 +41,11 @@ This is purely for:
 
 ╔══════════════════════════════════════════════════════════╗
 ║ THIS IS A TROLL/JOKE APPLICATION - NOT ACTUAL RANSOMWARE ║
-║                                                          ║
-║ • Use only on YOUR OWN computer or with EXPLICIT         ║
-║ permission from the computer owner                       ║
-║ • Never use this to scare people without their consent   ║
-║ • The author is NOT responsible for any misuse           ║
-║ • This is for EDUCATIONAL and ENTERTAINMENT purposes     ║
-║ ONLY                                                     ║
+║ ║
+║ • Use only on YOUR OWN computer or with EXPLICIT ║
+║ permission from the computer owner ║
+║ • Never use this to scare people without their consent ║
+║ • The author is NOT responsible for any misuse ║
+║ • This is for EDUCATIONAL and ENTERTAINMENT purposes ║
+║ ONLY ║
 ╚══════════════════════════════════════════════════════════╝
